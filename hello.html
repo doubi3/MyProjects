@@ -2,20 +2,112 @@
 <html>
 <head>
 <title>My Webpage!</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style type="text/css">
+
+
+	.container {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.container > div {
+		background-color: springgreen;
+		font-size: 10px;
+		margin: 20px;
+		padding: 20px;
+		width: 200px;
+	}
+
+	input[type=text] {
+		background-color: blue; 
+	}
+	input[type=number] {
+		background-color:yello;
+		}
+		button:hover {
+			background-color:orange;
+		}
+		a::before{
+			content: "\21d2 click here: ";
+			font-weight: bold;
+		}
+		p::selection {
+			color:red;
+			background-color: yellow;
+		}
+		@media print {
+			.screen-only { display: none;
+
+			}
+		}
+
+		@media (min-width: 500px) {
+			h1::before {
+			content:"Welcome to My Web Page!";
+			}
+		}
+		@media (max-width: 1000px) {
+			h1::before {
+			content: "Welcome!";
+			}
+		}
+</style>
+</head>
 <body>
-<<<<<<< HEAD
-<h1>Hello, World. I think sublime is better than notepad</h1>
+
+<h2>Hello, World. I think sublime is better than notepad</h2>
+
 <ul> 
+
 <li>First Item</li>
 <li>Second Item</li>
+
 </ul>
+
 <ol>
+
 <li>First Item</li>
-<li>Second Item</li
+<li>Second Item</li>
+
 </ol>
-=======
-Hello, World. Hello again
->>>>>>> e989076b26cdebd3f5b6c67e172908f683713b07
+
+<a href="link0.html">click me</a> 
+
+<button>Yes</button>
+
+<form>
+
+<input type="text" name="name" placeholder="name">
+
+<input type="password" name="password" placeholder="password">
+
+<input type="number" name="name" placeholder="age">
+
+</form>
+
+<p>sahflh gkhkfhalghlhglk</p>
+
+<p class="screen-only" >This won't appear on screens</p>
+
+<div>
+
+	<h1></h1>
+	
+</div>
+<div class="container">
+	<div> A. kkjsfkja;jd;khfjk;jj;ljdfljgdjd </div>
+	<div> B. kkjsfkja;jd;khfjk;jj;ljdfljgdjd </div>
+	<div> C.kkjsfkja;jd;khfjk;jj;ljdfljgdjd </div>
+	<div> D. kkjsfkja;jd;khfjk;jj;ljdfljgdjd </div>
+	<div> E. kkjsfkja;jd;khfjk;jj;ljdfljgdjd</div>
+	<div> F. kkjsfkja;jd;khfjk;jj;ljdfljgdjd </div>
+</div>
+
+
+
 </body>
 </head>
 	</html>

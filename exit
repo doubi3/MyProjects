@@ -1,0 +1,42 @@
+[33mcommit 0f8c19754775a6d3a683caf0887798f212248299[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mnew[m[33m)[m
+Author: Mark Ekperi <mark.ekperi@gmail.com>
+Date:   Wed Apr 22 17:39:43 2020 +0100
+
+    more scripts like forms
+
+[33mcommit bacf3a0b6ca0633270372c4a83dfd7282d85a5e0[m
+Author: Mark Ekperi <mark.ekperi@gmail.com>
+Date:   Tue Apr 21 21:12:36 2020 +0100
+
+    Adding more codes to my html page
+
+[33mcommit 8305f0decc6886fc2459e581a138bd4917a24386[m
+Merge: 63d4fdd e989076
+Author: Mark Ekperi <mark.ekperi@gmail.com>
+Date:   Tue Apr 21 20:52:42 2020 +0100
+
+    Updated html file
+
+[33mcommit 63d4fdd76dd68b2401e8e5fc68a32b0eb902bab9[m
+Author: Mark Ekperi <mark.ekperi@gmail.com>
+Date:   Tue Apr 21 06:02:53 2020 +0100
+
+    I just transitioned to Sublime!
+
+[33mcommit e989076b26cdebd3f5b6c67e172908f683713b07[m
+Author: doubi3 <63213411+doubi3@users.noreply.github.com>
+Date:   Tue Apr 21 04:38:38 2020 +0100
+
+    Update hello.html
+
+[33mcommit 8aa88b7f2ac9bf2a6c47030744d9b90d4045df89[m
+Author: Mark Ekperi <mark.ekperi@gmail.com>
+Date:   Tue Apr 21 04:24:18 2020 +0100
+
+    My first git test
+
+[33mcommit 8d19bfa2a91c3f488fe23c4f7d8c1fac517615c8[m
+Author: doubi3 <63213411+doubi3@users.noreply.github.com>
+Date:   Sun Apr 19 22:34:39 2020 +0100
+
+    Initial commit
